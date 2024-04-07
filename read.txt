@@ -1,0 +1,4 @@
+client:
+ip:你的serverip，同一网络下用ipconfig就好，不在同一网络下要做一下内网穿透
+server:
+ip:本机地址
